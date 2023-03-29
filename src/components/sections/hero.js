@@ -73,11 +73,7 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="/CV Fahmi Sabila Dinnulhaq_2023.pdf"
-      target="_blank"
-      rel="noreferrer">
+    <a className="email-link" href="/resume.pdf" target="_blank" rel="noreferrer">
       Check out my resume!
     </a>
   );
