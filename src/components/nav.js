@@ -173,7 +173,11 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+    <a
+      className="resume-button"
+      href="/CV Fahmi Sabila Dinnulhaq_2023.pdf"
+      target="_blank"
+      rel="noopener noreferrer">
       Resume
     </a>
   );
