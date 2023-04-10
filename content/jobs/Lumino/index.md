@@ -1,10 +1,10 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2022-06-03'
+title: 'Excel Programmer'
+company: 'Lumino Indonesia'
+location: 'Bandung, Indonesia'
+range: 'Jul - Oct 2022'
+url: 'https://luminoindonesia.com/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects
