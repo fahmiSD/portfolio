@@ -65,10 +65,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I have 2 years of experience as a computer programmer and am skilled in working with various
-        technology, software solutions, and managing databases. I am a valuable team player with a
-        knack for diagnosing problems and finding solutions. I have a proven track record of
-        successful contributions to the field and bring unique and innovative ideas to the table.
+        I possess a strong passion for programming and problem-solving, supported by extensive
+        experience in developing customized programs to meet customer requirements. I take great
+        satisfaction in utilizing my programming skills to create meaningful impact and value for
+        others.
       </p>
     </>
   );
