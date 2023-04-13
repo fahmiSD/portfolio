@@ -7,6 +7,7 @@ range: 'Feb - Jun 2022'
 url: 'https://www.enseval.com/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Preparing daily and monthly sales reports to provide comprehensive insights into completed sales activities.
+- Developing a sophisticated Excel application to accurately calculate and apply penalties for late attendance based on employees' respective positions.
+- Creating a robust Excel program that enables efficient search and retrieval of desired product, customer, sales, and loss information as per management requirements.
+- Conducting in-depth data analysis and generating insightful reports to fulfill management's specific information needs.

@@ -7,6 +7,6 @@ range: 'November 2019 - November 2021'
 url: 'https://www.unpad.ac.id/'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Designing and developing a static website for the Faculty of Animal Science's quality assurance unit, aimed at providing an informative and visually appealing online presence.
+- Creating a dynamic website that serves as a comprehensive tool for students to generate various types of correspondence, such as sick leave letters, venue rental letters, and other official documents.
+- Implementing a sophisticated feature for evaluating research proposals submitted by students, which automates the generation of assessment letters based on the objective assessment results, ensuring efficient and accurate communication of evaluation outcomes.

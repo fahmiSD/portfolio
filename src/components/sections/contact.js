@@ -60,8 +60,8 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I am actively seeking opportunities for individuals who can provide financial support or
-        assist in enhancing my programming skills. My inbox is readily accessible for inquiries and
+        I am highly receptive to new opportunities that have the potential to enhance my skills,
+        experience, and financial well-being. My inbox is readily open for fostering cooperation and
         collaboration.
       </p>
 
