@@ -130,8 +130,8 @@ const About = () => {
     'Laravel',
     'Javascript',
     'Tailwind CSS',
-    'React.js',
-    'Vue.js',
+    'Django',
+    'Codeigniter',
     'WordPress',
     'API',
   ];
