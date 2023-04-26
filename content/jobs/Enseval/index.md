@@ -1,6 +1,7 @@
 ---
 date: '2022-02-15'
 title: 'Data Analyst'
+nickCompany: 'Enseval'
 company: 'PT. Enseval Putera Megatrading,Tbk'
 location: 'Bandung, Indonesia'
 range: 'Feb - Jun 2022'

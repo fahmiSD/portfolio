@@ -1,6 +1,7 @@
 ---
 date: '2023-01-02'
 title: 'Programmer'
+nickCompany: 'Senja'
 company: 'PT. Senja Solusi Indonesia'
 location: 'Bandung, Indonesia'
 range: 'Jan 2023 - Present'

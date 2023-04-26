@@ -1,6 +1,7 @@
 ---
 date: '2022-06-03'
 title: 'Excel Programmer'
+nickCompany: 'Lumino'
 company: 'Lumino Indonesia'
 location: 'Bandung, Indonesia'
 range: 'Jul - Oct 2022'

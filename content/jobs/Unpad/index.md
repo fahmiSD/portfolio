@@ -1,6 +1,7 @@
 ---
 date: '2021-08-01'
 title: 'Web Developer'
+nickCompany: 'UNPAD'
 company: 'University of Padjadjaran'
 location: 'Sumedang, Indonesia'
 range: 'November 2019 - November 2021'
