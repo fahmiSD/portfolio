@@ -134,6 +134,8 @@ const About = () => {
     'Codeigniter',
     'WordPress',
     'API',
+    'Vue.js',
+    'React.js',
   ];
 
   return (
