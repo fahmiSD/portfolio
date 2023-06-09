@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Fahmi Sabila D',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Greetings! I\'m Fahmi, and I take pleasure in designing digital entities that exist on the internet.My interest in programming began during my time in vocational school and has since grown into a passion for all things related to programming, such as problem- solving and adapting to new challenges.',
+    siteUrl: 'https://https://portfolio-fahmisd.vercel.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
