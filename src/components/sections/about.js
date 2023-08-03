@@ -160,8 +160,8 @@ const About = () => {
             </p>
 
             <p>
-              I also recently <a href="http://prosproject.tech/">launched an application</a> that
-              help helps farmers to calculate the total milk production of their cows.
+              I also recently develop an application that help helps farmers to calculate the total
+              milk production of their cows.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
