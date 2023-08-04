@@ -82,7 +82,7 @@ const StyledProject = styled.li`
 
     display: flex;
     margin-bottom: 35px;
-    align-items: center;
+    align-items: flex-end;
 
     .folder {
       display: flex;
