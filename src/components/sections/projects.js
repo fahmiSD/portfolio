@@ -89,8 +89,8 @@ const StyledProject = styled.li`
       color: var(--green);
       align-items: flex-end;
       svg {
-        width: 40px;
-        height: 40px;
+        width: 30px;
+        height: 30px;
       }
     }
 
@@ -228,10 +228,10 @@ const Projects = () => {
           <div className="project-top">
             <div className="folder">
               <Icon name="Folder" />
-              &nbsp;&nbsp;
-              <span>{type}</span>
             </div>
             <div className="project-links">
+              <span>{type}</span>
+              &nbsp;&nbsp;
               {github && (
                 <a href={github} aria-label="GitHub Link" target="_blank" rel="noreferrer">
                   <Icon name="GitHub" />
