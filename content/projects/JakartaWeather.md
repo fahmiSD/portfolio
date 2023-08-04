@@ -2,7 +2,7 @@
 date: '2022-11-28'
 title: 'Jakarta Weather'
 github: 'https://github.com/fahmiSD/JakartaWeatherAPI'
-external: ''
+external: 'https://github.com/fahmiSD/JakartaWeatherAPI'
 type: 'Solo'
 tech:
   - Python
