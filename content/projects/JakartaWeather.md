@@ -11,4 +11,4 @@ company: '-'
 showInProjects: true
 ---
 
-Develop a Jakarta-based Weather Prediction using the openWeather API to provide accurate and up-to-date weather forecasts and conditions.
+Develop a Jakarta-based Weather Prediction using the openWeather API to provide accurate and up-to-date weather forecasts and conditions

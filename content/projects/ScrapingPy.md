@@ -11,4 +11,4 @@ company: '-'
 showInProjects: true
 ---
 
-Automate Python data scraping from Shopee and export data to XLSX format for easy analysis and organization.
+Automate Python data scraping from Shopee and export data to XLSX format for easy analysis and organization

@@ -12,4 +12,4 @@ company: 'Senja Solusi'
 showInProjects: true
 ---
 
-A user-friendly Point of Sales Application with a Dashboard page and POS page, offering a range of features for efficient sales management.
+A user-friendly Point of Sales Application with a Dashboard page and POS page, offering a range of features for efficient sales management
