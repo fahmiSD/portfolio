@@ -10,3 +10,5 @@ tech:
 company: '-'
 showInProjects: true
 ---
+
+Chatbot Plugin template for handling user requests and sending them to the backend, and showing the response in the chatbot modal with typing animation
