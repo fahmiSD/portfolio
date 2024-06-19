@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '3'
 title: 'Senja Solutions'
 cover: './Senja.png'
 github: ''

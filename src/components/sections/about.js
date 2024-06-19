@@ -126,16 +126,18 @@ const About = () => {
   }, []);
 
   const skills = [
-    'Python',
     'Laravel',
+    'Phalcon',
+    'Python',
     'Javascript',
     'Tailwind CSS',
     'Django',
     'Codeigniter',
     'WordPress',
-    'API',
+    'REST API',
     'Vue.js',
     'React.js',
+    'Jquery',
   ];
 
   return (

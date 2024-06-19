@@ -4,7 +4,7 @@ title: 'Programmer'
 nickCompany: 'Senja'
 company: 'PT. Senja Solusi Indonesia'
 location: 'Bandung, Indonesia'
-range: 'Jan 2023 - Present'
+range: 'Jan 2023 - Oct 2023'
 url: 'https://www.senja.co.uk/'
 ---
 

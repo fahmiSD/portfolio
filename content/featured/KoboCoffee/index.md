@@ -1,9 +1,9 @@
 ---
-date: '2'
+date: '5'
 title: 'Kobo Coffee'
 cover: './KoboCoffee.png'
 github: ''
-external: 'https://www.kobocoffee.shop/'
+external: 'https://kobocoffee.vercel.app/'
 tech:
   - HTML
   - CSS
